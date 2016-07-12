@@ -1,2 +1,7 @@
 redis
 rq
+flask
+flask-api
+django
+pyyaml
+jsonfy
