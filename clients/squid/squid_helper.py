@@ -1,4 +1,4 @@
-from squidhelper import squid_module
+from .squidhelper import *
 import sys
 import syslog
 import re
